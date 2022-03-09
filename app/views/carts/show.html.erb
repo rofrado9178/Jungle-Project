@@ -1,3 +1,4 @@
+
 <section class="cart-show">
 
   <header class="page-header">
@@ -6,8 +7,10 @@
 
   <div class="panel panel-default items">
    <% if cart.size == 0 %>
+      <div class="alert alert-primary" role="alert">
         <h4>Your Jungle cart is empty , no item to show</h4>
         <p>Continue shopping on Jungle <a href='products#index'> homepage</a></p>
+      </div>
         <% else %>
     <table class="table table-bordered">
       <thead>
