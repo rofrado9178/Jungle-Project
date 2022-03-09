@@ -18,6 +18,6 @@
   </footer>
 
   <aside class="price">
-    <%= humanized_money_with_symbol product.price %>
+    <%=Money.ca_dollar(product.price).format(no_cents_if_whole:true) %>
   </aside>
 </article>
