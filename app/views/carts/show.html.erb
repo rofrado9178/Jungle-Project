@@ -5,13 +5,16 @@
     <h1>My Cart</h1>
   </header>
 
-  <div class="panel panel-default items">
+  
    <% if cart.size == 0 %>
-      <div class="alert alert-primary" role="alert">
+   
+      <div class="alert alert-success" role="alert">
         <h4>Your Jungle cart is empty , no item to show</h4>
-        <p>Continue shopping on Jungle <a href='products#index'> homepage</a></p>
+        <p>Continue shopping on Jungle <a href='products#index'class="alert-link"> homepage</a></p>
       </div>
-        <% else %>
+    </div>     
+    <% else %>
+   <div class="panel panel-default items"> 
     <table class="table table-bordered">
       <thead>
         <tr>
