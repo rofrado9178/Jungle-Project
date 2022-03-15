@@ -44,7 +44,5 @@ RSpec.describe Product, type: :model do
   #using shoulda matcher validation sytax
   it{should belong_to(:category)}
 
- 
-
  end
 end
