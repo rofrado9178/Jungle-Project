@@ -2,6 +2,18 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of learning Rails by example, how to adapt with existing code, and how to implement new feature to the exisiting apps without breaking the apps, and also learn how to do unit testing in ruby on rails application
 
+## final product
+
+!["Login page"](https://github.com/rofrado9178/Jungle-Project/blob/master/docs/Screenshot%20by%20Snip%20My%20at%20Mar%2016%2C%202022%20at%2010:23:59%20AM.png)
+!["Sign Up page"](https://github.com/rofrado9178/Jungle-Project/blob/master/docs/Screenshot%20by%20Snip%20My%20at%20Mar%2016%2C%202022%20at%2010:24:35%20AM.png)
+!["Home page"](https://github.com/rofrado9178/Jungle-Project/blob/master/docs/Screenshot%20by%20Snip%20My%20at%20Mar%2016%2C%202022%20at%2010:26:33%20AM.png)
+!["About page"](https://github.com/rofrado9178/Jungle-Project/blob/master/docs/Screenshot%20by%20Snip%20My%20at%20Mar%2016%2C%202022%20at%2010:27:12%20AM.png)
+!["My Cart page"](https://github.com/rofrado9178/Jungle-Project/blob/master/docs/Screenshot%20by%20Snip%20My%20at%20Mar%2016%2C%202022%20at%2010:27:51%20AM.png)
+!["Finished Order page"](https://github.com/rofrado9178/Jungle-Project/blob/master/docs/Screenshot%20by%20Snip%20My%20at%20Mar%2016%2C%202022%20at%2010:28:53%20AM.png)
+!["Admin Dashboard"](https://github.com/rofrado9178/Jungle-Project/blob/master/docs/Screenshot%20by%20Snip%20My%20at%20Mar%2016%2C%202022%20at%2010:29:28%20AM.png)
+!["Admin All Product"](https://github.com/rofrado9178/Jungle-Project/blob/master/docs/Screenshot%20by%20Snip%20My%20at%20Mar%2016%2C%202022%20at%2010:29:49%20AM.png)
+!["Admin All categories"](https://github.com/rofrado9178/Jungle-Project/blob/master/docs/Screenshot%20by%20Snip%20My%20at%20Mar%2016%2C%202022%20at%2010:30:14%20AM.png)
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
